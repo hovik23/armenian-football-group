@@ -18,9 +18,8 @@
 
 ##### teams
 
-
 | team_id  | name_en | name_ru | name_hy |
-| --- | --- | --- |
+| :---: | --- | --- | --- |
 | 1 | Alashkert | Алашкерт | Ալաշկերտ |
 | 2 | Ararat Armenia | Арарат Армения | Արարատ Արմենիա |
 | 3 | Ararat | Арарат | Արարատ |
@@ -28,17 +27,15 @@
 
 ##### competitions
 
-
 | id  | name_en | name_ru | name_hy |
-| --- | --- | --- |
+| :---: | --- | --- | --- |
 | 1 | VBET APL | VBET АПЛ | VBET ՀՊԼ |
 | ... | ... | ... | ... |
 
 ##### users
 
-
 | id  | name | nickname | lang |
-| --- | --- | --- |
+| :---: | --- | --- | --- |
 | 86163709 | Hovhannes | hovhannes23 | hy |
 | ... | ... | ... | ... |
 
