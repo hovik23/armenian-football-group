@@ -18,6 +18,7 @@
 
 ##### teams
 
+
 | team_id  | name_en | name_ru | name_hy |
 | --- | --- | --- |
 | 1 | Alashkert | Алашкерт | Ալաշկերտ |
@@ -27,12 +28,14 @@
 
 ##### competitions
 
+
 | id  | name_en | name_ru | name_hy |
 | --- | --- | --- |
 | 1 | VBET APL | VBET АПЛ | VBET ՀՊԼ |
 | ... | ... | ... | ... |
 
 ##### users
+
 
 | id  | name | nickname | lang |
 | --- | --- | --- |
